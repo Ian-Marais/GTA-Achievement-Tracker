@@ -1,0 +1,595 @@
+{
+  "achievements": [
+    {
+      "title": "Getting Started",
+      "description": "Complete \"Big Smoke\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 79.7,
+      "icon": "bi-house-door-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/b2bb4de1a2f669456330d834988253adb4308507.jpg",
+      "videoId": "x7J8Hu57QSw",
+      "videoUrl": "https://www.youtube.com/watch?v=x7J8Hu57QSw",
+      "videoTitle": "GTA San Andreas Definitive Edition - Intro & Mission #1 - Big Smoke, Sweet & Kendl",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Pay 'n' Spray",
+      "description": "Use a Pay 'n' Spray with wanted level.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Side Content"
+      ],
+      "rarity": 55.5,
+      "icon": "bi-car-front-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/52112e5616e9adf7b485eac7e3e6b920ca7f8453.jpg",
+      "videoId": "FQ1pW0JPmHE",
+      "videoUrl": "https://www.youtube.com/watch?v=FQ1pW0JPmHE",
+      "videoTitle": "San Andreas The Definitive Edition - Pay 'N' Spray Trophy Guide (GTA Unlocking Pay 'N' Spray Trophy)",
+      "videoChannel": "Skull Busters"
+    },
+    {
+      "title": "All Dressed Up for San Fierro",
+      "description": "Complete \"The Green Sabre\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 34.6,
+      "icon": "bi-map-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/3eec96b7427b793ab50dafcb1af5573af135c88b.jpg",
+      "videoId": "WAZoYPYHAFs",
+      "videoUrl": "https://www.youtube.com/watch?v=WAZoYPYHAFs",
+      "videoTitle": "Grand Theft Auto San Andreas The Definitive Edition: All Dressed Up For San Fierro Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "The American Dream",
+      "description": "Purchase any house.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 30.9,
+      "icon": "bi-stars",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/79e6b682d69c3cc66388c39d18c78d9eb92edb1f.jpg",
+      "videoId": "0hzFBwT0Ucs",
+      "videoUrl": "https://www.youtube.com/watch?v=0hzFBwT0Ucs",
+      "videoTitle": "GTA San Andreas - \"The American Dream\" Trophy Guide (All Properties and Assets)",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "School's Out",
+      "description": "Fully complete a vehicle school.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Side Content"
+      ],
+      "rarity": 27.1,
+      "icon": "bi-controller",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/d6d2728a077583c4c11e464659b3eea69668d457.jpg",
+      "videoId": "kSYBK_m5wt8",
+      "videoUrl": "https://www.youtube.com/watch?v=kSYBK_m5wt8",
+      "videoTitle": "GTA The Trilogy: San Andreas - School's Out Achievement / Trophy Guide",
+      "videoChannel": "Bing! Game guides"
+    },
+    {
+      "title": "Smooth Moves",
+      "description": "Perform a perfect dance routine.",
+      "category": "Activities",
+      "tags": [
+        "Activities",
+        "Challenge"
+      ],
+      "rarity": 25.6,
+      "icon": "bi-flag-fill",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/7de9b208d0f9b14a14a8266f15e5a53edc5790d7.jpg",
+      "videoId": "KvR8-oAN0KA",
+      "videoUrl": "https://www.youtube.com/watch?v=KvR8-oAN0KA",
+      "videoTitle": "Grand Theft Auto San Andreas Smooth Moves Achievement (Trophy)",
+      "videoChannel": "RogueAgent4"
+    },
+    {
+      "title": "What happens in Las Venturas...",
+      "description": "Complete \"Yay Ka-Boom-Boom\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 24,
+      "icon": "bi-trophy-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/a46c55430a81cff47b61a76067ea74c2ed2c68be.jpg",
+      "videoId": "98WdYnxHGDs",
+      "videoUrl": "https://www.youtube.com/watch?v=98WdYnxHGDs",
+      "videoTitle": "Grand Theft Auto San Andreas The Definitive Edition: What Happens In Las Venturas Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Today Was a Good Day",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 23,
+      "icon": "bi-bicycle",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/45d4d9571f604cf29aa70386fa6d10b2614365a0.jpg",
+      "videoId": "SCndFDKqqNA",
+      "videoUrl": "https://www.youtube.com/watch?v=SCndFDKqqNA",
+      "videoTitle": "Grand Theft Auto San Andreas - Definative Edition - Today Was A Good Day Achievement/Trophy Guide",
+      "videoChannel": "How2Trophies"
+    },
+    {
+      "title": "Horror of the Santa Maria",
+      "description": "Drown.",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 19.7,
+      "icon": "bi-house-door-fill",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/b6b08611ef2c3a900ddcac912ab06cabc104e7d3.jpg",
+      "videoId": "tmtkcCVzqdk",
+      "videoUrl": "https://www.youtube.com/watch?v=tmtkcCVzqdk",
+      "videoTitle": "San Andreas The Definitive Edition - Horror Of The Santa Maria Trophy Guide",
+      "videoChannel": "Skull Busters"
+    },
+    {
+      "title": "Original Gangster",
+      "description": "Reach maximum respect.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 18.3,
+      "icon": "bi-car-front-fill",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/de5fb0ce45cb4db827414d6b4a3afb14bdaa6780.jpg",
+      "videoId": "dGC5ZlOnqKs",
+      "videoUrl": "https://www.youtube.com/watch?v=dGC5ZlOnqKs",
+      "videoTitle": "GTA San Andreas - \"Ain't Nothing But a G Thing\" & \"Original Gangster\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Liberty City State of Mind",
+      "description": "Complete the \"Saint Mark's Bistro\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 18.2,
+      "icon": "bi-map-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/cbe4b89b2efcb65282839c63850ac65b16fd075d.jpg",
+      "videoId": "372_YLOXn_Y",
+      "videoUrl": "https://www.youtube.com/watch?v=372_YLOXn_Y",
+      "videoTitle": "Grand Theft Auto San Andreas The Definitive Edition: Liberty City State Of Mind Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "With Extra Dip",
+      "description": "Buy 8 meals from Cluckin' Bell throughout the game.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 17.9,
+      "icon": "bi-stars",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/d3533ad14c5e82fc55f906635a35414716a0a523.jpg",
+      "videoId": "HDiar44BiWE",
+      "videoUrl": "https://www.youtube.com/watch?v=HDiar44BiWE",
+      "videoTitle": "GTA San Andreas: Definitive Edition - With Extra Dip \ud83c\udfc6 Trophy / Achievement Guide",
+      "videoChannel": "Trophy Tom"
+    },
+    {
+      "title": "The End of the Line",
+      "description": "Complete \"End of the Line\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 16.3,
+      "icon": "bi-controller",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/f410440515a1a9e90afe95ff054373b6cbe08f59.jpg",
+      "videoId": "rmN4-utb7q8",
+      "videoUrl": "https://www.youtube.com/watch?v=rmN4-utb7q8",
+      "videoTitle": "Grand Theft Auto San Andreas The Definitive Edition: The End Of The Line Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Saviour",
+      "description": "Complete 12 levels of Paramedic.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Completion"
+      ],
+      "rarity": 14.3,
+      "icon": "bi-flag-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/816044db78249a51c7fc9de8b7eb29920b6e611f.jpg",
+      "videoId": "cFLaWXM1XNA",
+      "videoUrl": "https://www.youtube.com/watch?v=cFLaWXM1XNA",
+      "videoTitle": "GTA - San Andreas - The Definitive Edition - \"Saviour\" Achievement / Trophy Guide",
+      "videoChannel": "SoMe1"
+    },
+    {
+      "title": "Rescue a Kitten Too?",
+      "description": "Complete 12 levels of Firefighter.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Completion"
+      ],
+      "rarity": 12.4,
+      "icon": "bi-trophy-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/5f6bc01fb72c82b86a2591bddcebf695778608ce.jpg",
+      "videoId": "yHBDndScWYw",
+      "videoUrl": "https://www.youtube.com/watch?v=yHBDndScWYw",
+      "videoTitle": "GTA San Andreas Definitive Edition - Rescue a Kitten Too Trophy/Achievement Guide",
+      "videoChannel": "TheTrophyMan"
+    },
+    {
+      "title": "What are the Odds",
+      "description": "Win a race in Inside Track Betting.",
+      "category": "Activities",
+      "tags": [
+        "Activities",
+        "Challenge"
+      ],
+      "rarity": 11.2,
+      "icon": "bi-bicycle",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/d39212b1d88a37f68c9a1ef22b4616cae9ca4447.jpg",
+      "videoId": "B9z3T26LenA",
+      "videoUrl": "https://www.youtube.com/watch?v=B9z3T26LenA",
+      "videoTitle": "GTA San Andreas Definitive Edition - What Are The Odds Trophy/Achievement Guide",
+      "videoChannel": "TheTrophyMan"
+    },
+    {
+      "title": "I\u2019ll Have Two Number 9s",
+      "description": "Reach maximum weight.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 11,
+      "icon": "bi-house-door-fill",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/fe15cb4294c38e0a2ce430322abe20d4ad6b5e5e.jpg",
+      "videoId": "Q3sc9JMbwRU",
+      "videoUrl": "https://www.youtube.com/watch?v=Q3sc9JMbwRU",
+      "videoTitle": "GTA San Andreas | Gain Weight FAST - I'll Have Two Number 9s Achievement (Definitive Edition)",
+      "videoChannel": "Red Nitrate"
+    },
+    {
+      "title": "Public Enemy No. 1",
+      "description": "Reach 6 wanted stars.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 10.4,
+      "icon": "bi-car-front-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/af125cc401b6928a72fbc5e46fe8250d1ae1c3e2.jpg",
+      "videoId": "KpRhKuNOLYw",
+      "videoUrl": "https://www.youtube.com/watch?v=KpRhKuNOLYw",
+      "videoTitle": "GTA San Andreas - \"Public Enemy No. 1\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Double or Nothin'",
+      "description": "Put all your money or the maximum bet on red or black and win.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 9.8,
+      "icon": "bi-map-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/c40f9d4338ab0cce9a37f06251f82baf6de7bcbc.jpg",
+      "videoId": "N9xqI1Rd-g8",
+      "videoUrl": "https://www.youtube.com/watch?v=N9xqI1Rd-g8",
+      "videoTitle": "GTA San Andreas - \"Double or Nothin'\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "What the City Needs",
+      "description": "Complete 12 levels of Vigilante.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Completion"
+      ],
+      "rarity": 9.7,
+      "icon": "bi-stars",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/7503d3bd863a4e65254bf1f446e87b4e5e6733dd.jpg",
+      "videoId": "8GXWZU_czn8",
+      "videoUrl": "https://www.youtube.com/watch?v=8GXWZU_czn8",
+      "videoTitle": "GTA San Andreas - Vigilante Guide [What the City Needs Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Swiss Army Strife",
+      "description": "Max all weapon skills.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 9.6,
+      "icon": "bi-controller",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/4e057bc60ed12cc4841a2e88859c9ddc819e89c8.jpg",
+      "videoId": "bFjr8W1EMmk",
+      "videoUrl": "https://www.youtube.com/watch?v=bFjr8W1EMmk",
+      "videoTitle": "GTA San Andreas - \"Swiss Army Strife\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Bike or Biker",
+      "description": "Complete BMX or NRG challenge.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Side Content"
+      ],
+      "rarity": 9.5,
+      "icon": "bi-flag-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/b19fb8fac21a00221f22f455b73961911df0c793.jpg",
+      "videoId": "PwLzN94iZvg",
+      "videoUrl": "https://www.youtube.com/watch?v=PwLzN94iZvg",
+      "videoTitle": "GTA San Andreas Definitive Edition - Bike or Biker Trophy/Achievement Guide",
+      "videoChannel": "TheTrophyMan"
+    },
+    {
+      "title": "Yes I Speak English",
+      "description": "Reach 50 fares in Taxi Mode.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Side Content"
+      ],
+      "rarity": 9.3,
+      "icon": "bi-trophy-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/63a81d25e95300c89f42bb2727cf36d5ffd3d9d6.jpg",
+      "videoId": "KILKOX-RKAM",
+      "videoUrl": "https://www.youtube.com/watch?v=KILKOX-RKAM",
+      "videoTitle": "GTA San Andreas Definitive Edition - Yes I Speak English Trophy/Achievement Guide",
+      "videoChannel": "TheTrophyMan"
+    },
+    {
+      "title": "Who Needs Directions?",
+      "description": "",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Challenge"
+      ],
+      "rarity": 9.2,
+      "icon": "bi-bicycle",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/264f3c91aecb57e345c15d242be09aa209f8cd0e.jpg",
+      "videoId": "8NqgJO9z-GI",
+      "videoUrl": "https://www.youtube.com/watch?v=8NqgJO9z-GI",
+      "videoTitle": "GTA San Andreas - \"Who Needs Directions?\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Assassin",
+      "description": "Stealth kill all enemies in the mission \"Madd Dogg's Rhymes\".",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 9,
+      "icon": "bi-house-door-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/77616a27a1e45f5c090caf077e3bf9ceb26c37ed.jpg",
+      "videoId": "Q8MxLVTNOV8",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8MxLVTNOV8",
+      "videoTitle": "GTA San Andreas - \"Assassin\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "They Can\u2019t Stop All of Us",
+      "description": "",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Challenge"
+      ],
+      "rarity": 8.8,
+      "icon": "bi-car-front-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/fb308f8edbeef8cc1ecb0cf82185d51afc4880da.jpg",
+      "videoId": "I9B3Avt3vcg",
+      "videoUrl": "https://www.youtube.com/watch?v=I9B3Avt3vcg",
+      "videoTitle": "GTA San Andreas - \"They Can't Stop All of Us\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Chick Magnet",
+      "description": "Achieve maximum sex appeal.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 8.6,
+      "icon": "bi-map-fill",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/0f509a94ac8d3dcd2c8f9f15a652592a7f80ce20.jpg",
+      "videoId": "Qha59Xdm1_s",
+      "videoUrl": "https://www.youtube.com/watch?v=Qha59Xdm1_s",
+      "videoTitle": "Chick Magnet Trophy/Achievement GTA San Andreas (TDE)",
+      "videoChannel": "GazzaMontana"
+    },
+    {
+      "title": "Ain\u2019t Nothing But a G Thing",
+      "description": "Own all gang warfare turfs, properties and have $1,000,000.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Challenge"
+      ],
+      "rarity": 7.9,
+      "icon": "bi-stars",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/51838f36f94fda58b7b27fe2567bf5aafaf618d4.jpg",
+      "videoId": "dGC5ZlOnqKs",
+      "videoUrl": "https://www.youtube.com/watch?v=dGC5ZlOnqKs",
+      "videoTitle": "GTA San Andreas - \"Ain't Nothing But a G Thing\" & \"Original Gangster\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Lucky Spinner",
+      "description": "Win at least $1,000 in a single spin of the Wheel of Fortune.",
+      "category": "Activities",
+      "tags": [
+        "Activities",
+        "Challenge"
+      ],
+      "rarity": 7.6,
+      "icon": "bi-controller",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/3043d51d122f6a5012f6dc2969e3b4ec8c8e63c5.jpg",
+      "videoId": "zUakBagbGvE",
+      "videoUrl": "https://www.youtube.com/watch?v=zUakBagbGvE",
+      "videoTitle": "GTA San Andreas - \"Lucky Spinner\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Hoopin' it Up",
+      "description": "Score at least 30 points in the basketball mini-game.",
+      "category": "Activities",
+      "tags": [
+        "Activities",
+        "Challenge"
+      ],
+      "rarity": 7.5,
+      "icon": "bi-flag-fill",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/f11839f00fb258bfbb8c0c20ad767e0dc33a1299.jpg",
+      "videoId": "QN1vgLY5Uas",
+      "videoUrl": "https://www.youtube.com/watch?v=QN1vgLY5Uas",
+      "videoTitle": "GTA San Andreas - Hoopin' It Up Achievement/Trophy Guide - Score 30 in Basketball Mini Game",
+      "videoChannel": "Maka91Productions"
+    },
+    {
+      "title": "A Legitimate Business",
+      "description": "Export all three car lists.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Completion"
+      ],
+      "rarity": 7.3,
+      "icon": "bi-trophy-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/105e718e9aead766724f0d1f44c41e2964f690a6.jpg",
+      "videoId": "RHw9-v11jKI",
+      "videoUrl": "https://www.youtube.com/watch?v=RHw9-v11jKI",
+      "videoTitle": "GTA San Andreas Definitive Edition - A Legitimate Business Export List#1 Trophy/Achievement Guide",
+      "videoChannel": "TheTrophyMan"
+    },
+    {
+      "title": "Not a Player",
+      "description": "Go on at least one date with every potential girlfriend.",
+      "category": "Lifestyle",
+      "tags": [
+        "Lifestyle",
+        "Open World"
+      ],
+      "rarity": 6.3,
+      "icon": "bi-bicycle",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/6b5d70bd83f9bcb5aead5105bc9a035ab7467e7d.jpg",
+      "videoId": "37iQCra55S4",
+      "videoUrl": "https://www.youtube.com/watch?v=37iQCra55S4",
+      "videoTitle": "GTA - San Andreas - The Definitive Edition - \"Not A Player\" Achievement / Trophy Guide",
+      "videoChannel": "SoMe1"
+    },
+    {
+      "title": "Remastered",
+      "description": "Earn 100% completion.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Challenge"
+      ],
+      "rarity": 5.8,
+      "icon": "bi-house-door-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/64ddc5c446c92d61ab5a7db31c04bac2c9f03c51.jpg",
+      "videoId": "ohAQW3COx2M",
+      "videoUrl": "https://www.youtube.com/watch?v=ohAQW3COx2M",
+      "videoTitle": "GTA San Andreas DE : The ULTIMATE Achievement / Trophy Guide (ALL on a SINGLE Savegame)",
+      "videoChannel": "Badinfos"
+    },
+    {
+      "title": "...Here we go again",
+      "description": "Start a new game after getting 100% on a save file.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 5.5,
+      "icon": "bi-car-front-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/573f8cc719447f9dc6e9b5d6287fd90d672b0a3b.jpg",
+      "videoId": "2L62djqnEe8",
+      "videoUrl": "https://www.youtube.com/watch?v=2L62djqnEe8",
+      "videoTitle": "GTA San Andreas - 100% Completion Guide [\"Remastered\" & \"Here we go again\" Trophies]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "I Ain't No Buster",
+      "description": "Unlock all achievements.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Challenge"
+      ],
+      "rarity": 5.1,
+      "icon": "bi-map-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1547000/b324de6c5c2a27045810840832c1258120be756a.jpg",
+      "videoId": "iXvhP3HCggU",
+      "videoUrl": "https://www.youtube.com/watch?v=iXvhP3HCggU",
+      "videoTitle": "\"I Ain't No Buster\" Platinum Trophy in GTA:SA \u2013 The Definitive Edition",
+      "videoChannel": "\ud835\udd78\ud835\udd8e\ud835\udd88\ud835\udd8d\ud835\udd86\ud835\udd8a\ud835\udd91 \ud835\udd72\ud835\udd94\ud835\udd99\ud835\udd8d\ud835\udd8e\ud835\udd88"
+    }
+  ]
+}

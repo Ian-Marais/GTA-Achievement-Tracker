@@ -1,0 +1,435 @@
+{
+  "achievements": [
+    {
+      "title": "First Day on the Job",
+      "description": "Complete \"Luigi's Girls\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 79.6,
+      "icon": "bi-train-freight-front-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/e0b9e4ffc089c19a24ddc5e3274c3193d762ea30.jpg",
+      "videoId": "wYIhVzmEsOY",
+      "videoUrl": "https://www.youtube.com/watch?v=wYIhVzmEsOY"
+    },
+    {
+      "title": "Disposing of the Evidence",
+      "description": "Crush a car at the junkyard.",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 44.9,
+      "icon": "bi-car-front-fill",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/b78e598696337e5a5e988796ab83e3dca5224ddb.jpg",
+      "videoId": "JSiSQJJXHVs",
+      "videoUrl": "https://www.youtube.com/watch?v=JSiSQJJXHVs"
+    },
+    {
+      "title": "Without a Scratch",
+      "description": "",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 42.8,
+      "icon": "bi-bullseye",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/e6a2e1abf6f4e21fdc1927f3acc962d040686afd.jpg",
+      "videoId": "QyBd3NVFFXo",
+      "videoUrl": "https://www.youtube.com/watch?v=QyBd3NVFFXo"
+    },
+    {
+      "title": "Wreckless Driving",
+      "description": "Perform a perfect insane stunt.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 35.5,
+      "icon": "bi-map-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/8892ae6a24fe0282599bc37342d39f00ddde9ab0.jpg",
+      "videoId": "F_dNd2N6OGY",
+      "videoUrl": "https://www.youtube.com/watch?v=F_dNd2N6OGY"
+    },
+    {
+      "title": "A Marked Man",
+      "description": "Complete \"Last Requests\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 33.4,
+      "icon": "bi-trophy-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/8e6e52451cdaf148fab7281c3a2fcefb2d82d38e.jpg",
+      "videoId": "GbJzf1XPc88",
+      "videoUrl": "https://www.youtube.com/watch?v=GbJzf1XPc88"
+    },
+    {
+      "title": "Street Sweeper",
+      "description": "Waste 100 gang members.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 28.7,
+      "icon": "bi-cone-striped",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/ae75f9d607b714d1bcbd98d79ae7c3cd981b7ba3.jpg",
+      "videoId": "Mm-uXwnl9d0",
+      "videoUrl": "https://www.youtube.com/watch?v=Mm-uXwnl9d0"
+    },
+    {
+      "title": "Liberty City Minute",
+      "description": "Survive with less than 10 hp for 1 minute.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 25.8,
+      "icon": "bi-fire",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/d7f5b29c1227ddf51c8b3db1c49d9302a087fe3e.jpg",
+      "videoId": "L6V28qP1bEM",
+      "videoUrl": "https://www.youtube.com/watch?v=L6V28qP1bEM"
+    },
+    {
+      "title": "Offshore Delivery",
+      "description": "Complete \"A Drop in the Ocean\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 23.4,
+      "icon": "bi-taxi-front-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/85c1937edc84fa8ca3118f72c543ab973298e77b.jpg",
+      "videoId": "pCUK5XYYEtk",
+      "videoUrl": "https://www.youtube.com/watch?v=pCUK5XYYEtk"
+    },
+    {
+      "title": "Dirty Money",
+      "description": "Amass a fortune of $1,000,000.",
+      "category": "Progression",
+      "tags": [
+        "Progression"
+      ],
+      "rarity": 22.9,
+      "icon": "bi-train-freight-front-fill",
+      "color": "#5d88a6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/8035bb1c4831ac7478c53238a3040bcf047bff69.jpg",
+      "videoId": "hMoFB6PYdvw",
+      "videoUrl": "https://www.youtube.com/watch?v=hMoFB6PYdvw"
+    },
+    {
+      "title": "Right-hand Man",
+      "description": "Earn a criminal rating of 2,500.",
+      "category": "Progression",
+      "tags": [
+        "Progression"
+      ],
+      "rarity": 19.9,
+      "icon": "bi-car-front-fill",
+      "color": "#5d88a6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/0bc7e83684d0275351e76149947043c1d2180dd4.jpg",
+      "videoId": "imnttFSzO7Y",
+      "videoUrl": "https://www.youtube.com/watch?v=imnttFSzO7Y"
+    },
+    {
+      "title": "Not So Fast",
+      "description": "Complete \"The Exchange\".",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 19.8,
+      "icon": "bi-bullseye",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/1b1b7950b96027352e3d70635c8faae7519e0d9b.jpg",
+      "videoId": "bCaRZsDaZUQ",
+      "videoUrl": "https://www.youtube.com/watch?v=bCaRZsDaZUQ"
+    },
+    {
+      "title": "By a Mile",
+      "description": "Complete the \"Turismo\" race in under 180 seconds.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 18.1,
+      "icon": "bi-map-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/4adffcdadbdcc29413a6d49cb83e48af723fbbc9.jpg",
+      "videoId": "BzUXbQNOrJ8",
+      "videoUrl": "https://www.youtube.com/watch?v=BzUXbQNOrJ8",
+      "videoTitle": "GTA 3 Definitive Edition - Mission #23 - Turismo [By A Mile Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "A Gift from the King",
+      "description": "Complete the \"Kingdom Come\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 15.4,
+      "icon": "bi-trophy-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/b8cbbe021c5f315ee44fc3b4cbceb78579cd7c07.jpg",
+      "videoId": "l_C8QgI882U",
+      "videoUrl": "https://www.youtube.com/watch?v=l_C8QgI882U"
+    },
+    {
+      "title": "Full Artillery",
+      "description": "Use every weapon in the game at least once.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 12.3,
+      "icon": "bi-cone-striped",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/8f716826577a80d57fb27c35307e7d9b5e0aca0d.jpg",
+      "videoId": "hnGH0w1pkck",
+      "videoUrl": "https://www.youtube.com/watch?v=hnGH0w1pkck"
+    },
+    {
+      "title": "Mob Boss",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 11.5,
+      "icon": "bi-fire",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/908e567f8f5bd9bbfc220d2af1cd2263797735f3.jpg",
+      "videoId": "0P7sHTEoX6w",
+      "videoUrl": "https://www.youtube.com/watch?v=0P7sHTEoX6w"
+    },
+    {
+      "title": "Splish Splash",
+      "description": "Extinguish 15 fires during a single Fire Truck mission.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 11.4,
+      "icon": "bi-taxi-front-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/7cb0baba64d4f87b69435dc87e11e209cf4aa432.jpg",
+      "videoId": "rsvv5Z_fhlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rsvv5Z_fhlQ"
+    },
+    {
+      "title": "Got This Figured Out",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 11.1,
+      "icon": "bi-train-freight-front-fill",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/6b7f0a3ccb653d546e6aed74e822c5a90df5f88a.jpg",
+      "videoId": "HodcGFPp878",
+      "videoUrl": "https://www.youtube.com/watch?v=HodcGFPp878"
+    },
+    {
+      "title": "Planned Ahead",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 10.6,
+      "icon": "bi-car-front-fill",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/44e15a2dea1c3cadeeebb46d2a117466f78f7ab5.jpg",
+      "videoId": "-bNUmK56nhE",
+      "videoUrl": "https://www.youtube.com/watch?v=-bNUmK56nhE"
+    },
+    {
+      "title": "Come Out to Play-y-y-y",
+      "description": "Kill 25 gang members with melee weapons / fists.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 10.4,
+      "icon": "bi-bullseye",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/17f696dda540919f6b97fb111e691f5cca365d61.jpg",
+      "videoId": "XVokl2eqVas",
+      "videoUrl": "https://www.youtube.com/watch?v=XVokl2eqVas"
+    },
+    {
+      "title": "Where To?",
+      "description": "Complete 100 taxi fares.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 10.3,
+      "icon": "bi-map-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/678a88401797c62b88a4d8498a214f37c03c7d45.jpg",
+      "videoId": "FUYu9AHcdhg",
+      "videoUrl": "https://www.youtube.com/watch?v=FUYu9AHcdhg"
+    },
+    {
+      "title": "Playing Doctor",
+      "description": "Complete Paramedic level 12.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 9.9,
+      "icon": "bi-trophy-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/7a0b4e120a4be589fe4841974fcfb0230c286c60.jpg",
+      "videoId": "gWBFAPfbIMM",
+      "videoUrl": "https://www.youtube.com/watch?v=gWBFAPfbIMM"
+    },
+    {
+      "title": "Going Rogue",
+      "description": "Kill 15 criminals during one Vigilante mission.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 9.5,
+      "icon": "bi-cone-striped",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/e6adc8aceafe8f78787001256999a3e63053bb51.jpg",
+      "videoId": "m6b0iVpe_Tk",
+      "videoUrl": "https://www.youtube.com/watch?v=m6b0iVpe_Tk"
+    },
+    {
+      "title": "Escape Artist",
+      "description": "Use 20 police bribes.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 9.3,
+      "icon": "bi-fire",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/a895d380d7ed7a40267a1e1e8024a018ec2b3620.jpg",
+      "videoId": "Dh0_Zxk-FOg",
+      "videoUrl": "https://www.youtube.com/watch?v=Dh0_Zxk-FOg"
+    },
+    {
+      "title": "Liberty City Secrets",
+      "description": "Collect 100 hidden packages.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 8.9,
+      "icon": "bi-taxi-front-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/984a94200f72956a9f3b511a862af3d26c623d49.jpg",
+      "videoId": "x3dchzuSVtA",
+      "videoUrl": "https://www.youtube.com/watch?v=x3dchzuSVtA"
+    },
+    {
+      "title": "Man Toyz",
+      "description": "Complete every RC Toyz mission.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 8.4,
+      "icon": "bi-train-freight-front-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/3078da0550886378c89b1aea7a3a22b1d5b4e029.jpg",
+      "videoId": "at0L2HWtP_E",
+      "videoUrl": "https://www.youtube.com/watch?v=at0L2HWtP_E"
+    },
+    {
+      "title": "Wheels Up",
+      "description": "Complete 20 unique jumps.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 8.1,
+      "icon": "bi-car-front-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/1a6d417f2e8e736abd3b0ac7bfa87bf1aa614434.jpg",
+      "videoId": "CaPco39bH6w",
+      "videoUrl": "https://www.youtube.com/watch?v=CaPco39bH6w"
+    },
+    {
+      "title": "Furious First Responder",
+      "description": "Complete Paramedic, Firefighter, Vigilante.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 8.1,
+      "icon": "bi-bullseye",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/62f646b03313f067f0bbcc90069f5c42ed297a71.jpg",
+      "videoId": "XrCfeVM0ptg",
+      "videoUrl": "https://www.youtube.com/watch?v=XrCfeVM0ptg"
+    },
+    {
+      "title": "Is That All You've Got?",
+      "description": "Achieve 100% completion.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 7.6,
+      "icon": "bi-map-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/780d804ed72de4c9b35a073ccd45e9ee49fc289a.jpg",
+      "videoId": "san7IAKpFj8",
+      "videoUrl": "https://www.youtube.com/watch?v=san7IAKpFj8"
+    },
+    {
+      "title": "King of Liberty City",
+      "description": "Unlock all achievements.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 7.3,
+      "icon": "bi-trophy-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546970/3115647be4e3b0b0aa28d30932ad598786d123be.jpg",
+      "videoId": "PG5Lpr5-dbI",
+      "videoUrl": "https://www.youtube.com/watch?v=PG5Lpr5-dbI"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "GTAV",
+    "name": "Grand Theft Auto V Enhanced",
+    "shortName": "Grand Theft Auto V Enhanced",
+    "badge": "V",
+    "logo": "GTA Assets/Grand Theft Auto V Enhanced.png",
+    "icon": "bi-stars",
+    "platform": "Steam",
+    "accent": "#d3a12e",
+    "summary": "Enhanced Los Santos progression across Story Mode, heists, and GTA Online.",
+    "subtitle": "Los Santos and Blaine County",
+    "totalAchievements": 77,
+    "file": "data/games/gtav.json?nocache=4"
+  },
+  {
+    "id": "GTAIV",
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "shortName": "GTA IV: The Complete Edition",
+    "badge": "IV",
+    "logo": "GTA Assets/GTA IV: The Complete Edition.png",
+    "icon": "bi-buildings-fill",
+    "platform": "Steam",
+    "accent": "#5aa7d6",
+    "summary": "Liberty City stories across the base game and episodes.",
+    "subtitle": "Liberty City and Alderney",
+    "totalAchievements": 55,
+    "file": "data/games/gtaiv.json?nocache=2"
+  },
+  {
+    "id": "GTASADE",
+    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "shortName": "San Andreas - The Definitive Edition",
+    "badge": "SA",
+    "logo": "GTA Assets/gta San Andreas - The Definitive Edition.png",
+    "icon": "bi-sign-turn-right-fill",
+    "platform": "Steam",
+    "accent": "#2d9b55",
+    "summary": "Gang wars, state-wide exploration, and CJ's comeback.",
+    "subtitle": "Los Santos, San Fierro, and Las Venturas",
+    "totalAchievements": 35,
+    "file": "data/games/gtasade.json?nocache=2"
+  },
+  {
+    "id": "GTAVCDE",
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "shortName": "Vice City - The Definitive Edition",
+    "badge": "VC",
+    "logo": "GTA Assets/gta vice city - The definitive edition logo.png",
+    "icon": "bi-sunrise-fill",
+    "platform": "Steam",
+    "accent": "#ff6ea8",
+    "summary": "Neon empire building in the sun-soaked 80s.",
+    "subtitle": "Vice City",
+    "totalAchievements": 34,
+    "file": "data/games/gtavcde.json?nocache=2"
+  },
+  {
+    "id": "GTA3DE",
+    "name": "Grand Theft Auto III - The Definitive Edition",
+    "shortName": "Grand Theft Auto III - The Definitive Edition",
+    "badge": "III",
+    "logo": "GTA Assets/Grand Theft Auto III - The Definitive Edition.png",
+    "icon": "bi-train-freight-front-fill",
+    "platform": "Steam",
+    "accent": "#d96f32",
+    "summary": "Cold, ruthless progression through Liberty City's underworld.",
+    "subtitle": "Liberty City",
+    "totalAchievements": 29,
+    "file": "data/games/gta3de.json?nocache=2"
+  }
+]

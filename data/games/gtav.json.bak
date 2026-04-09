@@ -1,0 +1,112 @@
+{
+  "achievements": [
+    {
+      "title": "Off the Plane",
+      "description": "Complete the prologue and settle into modern-day Los Santos.",
+      "category": "Story",
+      "tags": ["Story", "Prologue"],
+      "rarity": 89.4,
+      "icon": "bi-airplane-engines-fill",
+      "color": "#d3a12e"
+    },
+    {
+      "title": "Crew on Call",
+      "description": "Assemble the right specialists for your first major score.",
+      "category": "Story",
+      "tags": ["Story", "Heists"],
+      "rarity": 73.8,
+      "icon": "bi-people-fill",
+      "color": "#cc8a1c"
+    },
+    {
+      "title": "City of Excess",
+      "description": "Buy a luxury property and start earning passive income.",
+      "category": "Economy",
+      "tags": ["Open World", "Collection"],
+      "rarity": 44.9,
+      "icon": "bi-bank2",
+      "color": "#9d7b22"
+    },
+    {
+      "title": "Wheelman",
+      "description": "Win a street race without wrecking your lead vehicle.",
+      "category": "Vehicles",
+      "tags": ["Driving", "Challenge"],
+      "rarity": 37.2,
+      "icon": "bi-speedometer2",
+      "color": "#8f6a16"
+    },
+    {
+      "title": "High-End Lift",
+      "description": "Finish a classic score with every crew member still standing.",
+      "category": "Heists",
+      "tags": ["Heists", "Challenge"],
+      "rarity": 28.6,
+      "icon": "bi-gem",
+      "color": "#e0b847"
+    },
+    {
+      "title": "Backseat Analyst",
+      "description": "Scope a mission from the sky using surveillance mode.",
+      "category": "Strategy",
+      "tags": ["Heists", "Planning"],
+      "rarity": 31.4,
+      "icon": "bi-binoculars-fill",
+      "color": "#a57b11"
+    },
+    {
+      "title": "Pacific Payday",
+      "description": "Finish the biggest coastal robbery in one clean run.",
+      "category": "Heists",
+      "tags": ["Story", "Heists"],
+      "rarity": 21.7,
+      "icon": "bi-cash-stack",
+      "color": "#f0c145"
+    },
+    {
+      "title": "Los Santos Tourist",
+      "description": "Visit every district in the city and county.",
+      "category": "Exploration",
+      "tags": ["Open World", "Collection"],
+      "rarity": 24.1,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12"
+    },
+    {
+      "title": "Night Shift",
+      "description": "Complete a full slate of side hustles after sunset.",
+      "category": "Side Content",
+      "tags": ["Open World", "Challenge"],
+      "rarity": 19.5,
+      "icon": "bi-moon-stars-fill",
+      "color": "#745611"
+    },
+    {
+      "title": "Digital Kingpin",
+      "description": "Reach a major milestone in the online criminal ladder.",
+      "category": "Online",
+      "tags": ["Online", "Progression"],
+      "rarity": 16.8,
+      "icon": "bi-globe-americas",
+      "color": "#95731d"
+    },
+    {
+      "title": "Clean Getaway",
+      "description": "Lose a full police response without using a repair stop.",
+      "category": "Skill",
+      "tags": ["Driving", "Challenge"],
+      "rarity": 26.5,
+      "icon": "bi-shield-x",
+      "color": "#c48e10"
+    },
+    {
+      "title": "One Last Score",
+      "description": "See the end of the story and secure the crew's future.",
+      "category": "Story",
+      "tags": ["Story", "Finale"],
+      "rarity": 35.9,
+      "icon": "bi-trophy-fill",
+      "color": "#e4c15e"
+    }
+  ]
+}

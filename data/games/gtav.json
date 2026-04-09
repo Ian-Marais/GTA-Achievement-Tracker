@@ -1,0 +1,1236 @@
+{
+  "achievements": [
+    {
+      "title": "Off the Plane",
+      "description": "GTA Online: Complete the Introduction.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 67.8,
+      "icon": "bi-trophy-fill",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/c5cf82d82a32918a9562229f12fe6a88691342a0.jpg",
+      "videoId": "Y_q669wVaZQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Y_q669wVaZQ",
+      "videoTitle": "Grand Theft Auto V: Off The Plane Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "American Dream",
+      "description": "GTA Online: Own an Apartment, Garage and an Insured Vehicle.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 64.1,
+      "icon": "bi-stars",
+      "color": "#d3a12e",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/54705fbb27c56b0c3e00ff4dbd7b5b8039e45966.jpg",
+      "videoId": "jhrvj3t0bBM",
+      "videoUrl": "https://www.youtube.com/watch?v=jhrvj3t0bBM",
+      "videoTitle": "GTA V - American Dream Achievement/Trophy Guide (Grand Theft Auto Online)",
+      "videoChannel": "SASxSH4DOWZ"
+    },
+    {
+      "title": "Three-Bit Gangster",
+      "description": "GTA Online: Reach Rank 25.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 45.2,
+      "icon": "bi-controller",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/30a5e9e71f62397b5278ed15ec48dcbaac16eebb.jpg",
+      "videoId": "ONcfo7rLTps",
+      "videoUrl": "https://www.youtube.com/watch?v=ONcfo7rLTps",
+      "videoTitle": "Three-Bit Gangster \ud83c\udfc6 trophy. Grand Theft Auto V on PS5. (Trophy Tip in description)",
+      "videoChannel": "Monstrous Gaming"
+    },
+    {
+      "title": "Welcome to Los Santos",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 43.8,
+      "icon": "bi-joystick",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
+      "videoId": "mGC4QeuJT6U",
+      "videoUrl": "https://www.youtube.com/watch?v=mGC4QeuJT6U",
+      "videoTitle": "GTA V - Welcome to Los Santos - Achievement/Trophy Guide",
+      "videoChannel": "DXS"
+    },
+    {
+      "title": "Be Prepared",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 42.2,
+      "icon": "bi-map-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/feafc37edae850fb5265af911c79c790d6cc7a29.jpg",
+      "videoId": "YzlB8OcNq-w",
+      "videoUrl": "https://www.youtube.com/watch?v=YzlB8OcNq-w",
+      "videoTitle": "What Is The Hardest Achievement In GTA 5?",
+      "videoChannel": "Stay"
+    },
+    {
+      "title": "Pimp My Sidearm",
+      "description": "Fully mod a weapon.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 41.2,
+      "icon": "bi-camera-reels-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/3fa275527df718f8342d608f6e46ee0a10b3b1d8.jpg",
+      "videoId": "EIERbuCLjQg",
+      "videoUrl": "https://www.youtube.com/watch?v=EIERbuCLjQg",
+      "videoTitle": "GTA 5 Pimp My Sidearm Achievement / Trophy Guide",
+      "videoChannel": "James Hook"
+    },
+    {
+      "title": "Run Like The Wind",
+      "description": "GTA Online: Survive for a day with a Bounty on your head.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 36.5,
+      "icon": "bi-flag-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/ce255c268be04fb73602464b42556e963b6d7789.jpg",
+      "videoId": "uPBzjtaeIHE",
+      "videoUrl": "https://www.youtube.com/watch?v=uPBzjtaeIHE",
+      "videoTitle": "GTA 5 RUN LIKE THE WIND ACHIEVEMENT/TROPHY GUIDE - GRAND THEFT AUTO 5 ACHIEVEMENT",
+      "videoChannel": "COGINC"
+    },
+    {
+      "title": "Making Moves",
+      "description": "GTA Online: Reach Rank 50.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 35.4,
+      "icon": "bi-lightning-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/e539102e76b24bffc04c4d3cdcf29c7784aaa4cf.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Decorated",
+      "description": "GTA Online: Earn 30 Platinum Awards.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 30.1,
+      "icon": "bi-trophy-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/dd71aa8b6617cb7ddba275a39be75ed9c7e46d2c.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Clean Sweep",
+      "description": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 27.2,
+      "icon": "bi-stars",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/adb627ccd60b5984b19d6efa267fafed76b75878.jpg",
+      "videoId": "LaeGUmoTWIc",
+      "videoUrl": "https://www.youtube.com/watch?v=LaeGUmoTWIc",
+      "videoTitle": "Grand Theft Auto V - Clean Sweep Guide",
+      "videoChannel": "LetsPlay Community"
+    },
+    {
+      "title": "Above the Law",
+      "description": "GTA Online: Reach Rank 100.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 24.3,
+      "icon": "bi-controller",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/aa55434f37dadab31e74ca75de8d500cc6777817.jpg",
+      "videoId": "ClyVawUicRE",
+      "videoUrl": "https://www.youtube.com/watch?v=ClyVawUicRE",
+      "videoTitle": "Grand Theft Auto V | Above the Law Achievement Guide",
+      "videoChannel": "Acetwa"
+    },
+    {
+      "title": "Parole Day",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 23.5,
+      "icon": "bi-joystick",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/bf3176af1755a26b80830b2ae47c2c418ade8e46.jpg",
+      "videoId": "zPTY_t-MOpY",
+      "videoUrl": "https://www.youtube.com/watch?v=zPTY_t-MOpY",
+      "videoTitle": "Grand Theft Auto 5 Online: Heists Parole Day Achievement",
+      "videoChannel": "Meteor PS5 Games"
+    },
+    {
+      "title": "Shot Caller",
+      "description": "GTA Online: Invest your hard earned cash to set up a Heist.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 22.3,
+      "icon": "bi-map-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/1b013c9160d60461f8085ea12bca524533321fa3.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Crew Cut",
+      "description": "GTA Online: Complete a Job as a member of a Crew.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 21.9,
+      "icon": "bi-camera-reels-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/e17fcace5546edd7cd00901e13e4b24bf1b47d6f.jpg",
+      "videoId": "Ce2Bb5Lde9c",
+      "videoUrl": "https://www.youtube.com/watch?v=Ce2Bb5Lde9c",
+      "videoTitle": "GTA V: Achievement Guide - Crew Cut",
+      "videoChannel": "Arcane Penguin Gaming"
+    },
+    {
+      "title": "Los Santos Customs",
+      "description": "Fully mod a vehicle.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 21.5,
+      "icon": "bi-flag-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2e83b6bfdaf014f5e179411b76331fbffbcefe73.jpg",
+      "videoId": "_plYBAcdg8I",
+      "videoUrl": "https://www.youtube.com/watch?v=_plYBAcdg8I",
+      "videoTitle": "Grand Theft Auto V (GTA V) - Los Santos Customs Trophy / Achievement Guide",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "Can't Touch This",
+      "description": "GTA Online: Complete a Heist finale without taking any damage.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 20.9,
+      "icon": "bi-lightning-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/130c08096332253004392ed86e4b3a1a5a27abdf.jpg",
+      "videoId": "l--nWn-Rddo",
+      "videoUrl": "https://www.youtube.com/watch?v=l--nWn-Rddo",
+      "videoTitle": "Grand Theft Auto 5 - Can't Touch This Achievement/Trophy Guide",
+      "videoChannel": "BabyishDuck"
+    },
+    {
+      "title": "The Data Breaches",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 20.5,
+      "icon": "bi-trophy-fill",
+      "color": "#c48e10",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/e8e1d0385d1b6d2e343c5fe9fa81afc9a31db5f8.jpg",
+      "videoId": "TpL1-D2AW0s",
+      "videoUrl": "https://www.youtube.com/watch?v=TpL1-D2AW0s",
+      "videoTitle": "Gta 5 The Data Breaches Heist Guide - Doomsday Act 1 Payout Worth it?",
+      "videoChannel": "Bawsarnold"
+    },
+    {
+      "title": "The Bogdan Problem",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 18.2,
+      "icon": "bi-stars",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/7325bc611b519a3b679f8e8f32c1acbc63abe126.jpg",
+      "videoId": "Z0vY2naOThI",
+      "videoUrl": "https://www.youtube.com/watch?v=Z0vY2naOThI",
+      "videoTitle": "The bogdan replay glitch in gta 5 online OBSOLETES cargo grinding AND Cayo in 2025\ud83d\udc80\ud83d\udd25",
+      "videoChannel": "Mr Aimbot"
+    },
+    {
+      "title": "Diamond Hard",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 18.1,
+      "icon": "bi-controller",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/c198e03dc06a2b1db3de7415e06a370e6af68063.jpg",
+      "videoId": "CjQCQBA9ShA",
+      "videoUrl": "https://www.youtube.com/watch?v=CjQCQBA9ShA",
+      "videoTitle": "Grand Theft Auto V - Diamond Hard Trophy Guide",
+      "videoChannel": "Gaming Matters"
+    },
+    {
+      "title": "Getting Started",
+      "description": "GTA Online: Set up The Doomsday Heist.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 16.9,
+      "icon": "bi-joystick",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/f90e04c37044f961f50fb9169ab163f78b125b44.jpg",
+      "videoId": "F_oBUDoLGsA",
+      "videoUrl": "https://www.youtube.com/watch?v=F_oBUDoLGsA",
+      "videoTitle": "COMPLETE GTA Online Guide FOR Absolute BEGINNERS! (UPDATED 2025)",
+      "videoChannel": "Hazard"
+    },
+    {
+      "title": "A Friendship Resurrected",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 16.8,
+      "icon": "bi-map-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/f8d1ec571d81f8ad48a2dd9f028cf6bb0414b9c9.jpg",
+      "videoId": "9w7He0W4ECU",
+      "videoUrl": "https://www.youtube.com/watch?v=9w7He0W4ECU",
+      "videoTitle": "GTA V: 10G- A FRIENDSHIP RESURRECTED *ACHIEVEMENT*",
+      "videoChannel": "ACHVMENTHUNT3R"
+    },
+    {
+      "title": "The Doomsday Scenario",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 15.9,
+      "icon": "bi-camera-reels-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/531cfbe659ab701f764ccd74b6350e3ba89c7cf6.jpg",
+      "videoId": "Ff13FEN82RY",
+      "videoUrl": "https://www.youtube.com/watch?v=Ff13FEN82RY",
+      "videoTitle": "GTA Online: Doomsday Heist Act #1 - Prep: Paramedic Equipment (Elite & Mastermind II)",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Dead Presidents",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 15.6,
+      "icon": "bi-flag-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/015ce0a19ec3a2819b1e21594946c39127e3020e.jpg",
+      "videoId": "YzlB8OcNq-w",
+      "videoUrl": "https://www.youtube.com/watch?v=YzlB8OcNq-w",
+      "videoTitle": "What Is The Hardest Achievement In GTA 5?",
+      "videoChannel": "Stay"
+    },
+    {
+      "title": "Dialling Digits",
+      "description": "GTA Online: Call for a Backup Helicopter for the first time.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 15.2,
+      "icon": "bi-lightning-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/00da743dcc9ca6db78159cc65a68df9081b10341.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "In the Name of Science",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 15,
+      "icon": "bi-trophy-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/465f0eba5540b4d743d280bfc13ecdfba88cdf28.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "A World Worth Saving",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 13.4,
+      "icon": "bi-stars",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/669aecd1f2b82f12e6e21b69fe09e4138c782d70.jpg",
+      "videoId": "nEXdDw3DFco",
+      "videoUrl": "https://www.youtube.com/watch?v=nEXdDw3DFco",
+      "videoTitle": "The Quest For Everything! (It Took Over 9000 Hours) - GTA 5 100% Achievements Part 1",
+      "videoChannel": "DarkViperAU"
+    },
+    {
+      "title": "Subversive",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 12.9,
+      "icon": "bi-controller",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/b8333b0c643acb9e115774bdf6996d34a77f7391.jpg",
+      "videoId": "rSxLcN4W5CU",
+      "videoUrl": "https://www.youtube.com/watch?v=rSxLcN4W5CU",
+      "videoTitle": "Grand Theft Auto V - Subversive Trophy Guide",
+      "videoChannel": "Gaming Matters"
+    },
+    {
+      "title": "Unnatural Selection",
+      "description": "GTA Online: Complete all 10 waves of a Survival.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 12.6,
+      "icon": "bi-joystick",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/efd0f79d67721e98cca81e41a33069abf32b19d9.jpg",
+      "videoId": "1uPKh5whOoE",
+      "videoUrl": "https://www.youtube.com/watch?v=1uPKh5whOoE",
+      "videoTitle": "GTA 5 - Unnatural Selection Trophy/Achievement Guide (SOLO EASY METHOD)",
+      "videoChannel": "Dexim"
+    },
+    {
+      "title": "Blitzed",
+      "description": "You performed a classic blitz play.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 12.4,
+      "icon": "bi-map-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2f50a69673ee905a6c3f43fb85e9b1b7d6c26d2d.jpg",
+      "videoId": "ULaA4z363b0",
+      "videoUrl": "https://www.youtube.com/watch?v=ULaA4z363b0",
+      "videoTitle": "Grand Theft Auto V Blitzed Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Show Off",
+      "description": "Complete all Stunt Jumps.",
+      "category": "Collection",
+      "tags": [
+        "Collection"
+      ],
+      "rarity": 12.2,
+      "icon": "bi-camera-reels-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/1d960b9d0bd93f47caf00fb0e0906fa63877b1ec.jpg",
+      "videoId": "EA6C9z_wMVE",
+      "videoUrl": "https://www.youtube.com/watch?v=EA6C9z_wMVE",
+      "videoTitle": "GTA 5 PS5 - Stunt Jumps [Show Off Achievement / Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "A Fair Day's Pay",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 11.7,
+      "icon": "bi-flag-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/3e73a071eff77c31bfe6fd5f252685acb11e0311.jpg",
+      "videoId": "TDx9pzdbS7c",
+      "videoUrl": "https://www.youtube.com/watch?v=TDx9pzdbS7c",
+      "videoTitle": "GTA 5: How to Get \"A Fair Day's Pay\" Trophy FAST! (Story Ending Guide) #grandtheftauto #gta5 #trophy",
+      "videoChannel": "Lobby9"
+    },
+    {
+      "title": "Small Town, Big Job",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 11.1,
+      "icon": "bi-lightning-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/11a6e2de29101e7eba04623538cee1417365160c.jpg",
+      "videoId": "YzlB8OcNq-w",
+      "videoUrl": "https://www.youtube.com/watch?v=YzlB8OcNq-w",
+      "videoTitle": "What Is The Hardest Achievement In GTA 5?",
+      "videoChannel": "Stay"
+    },
+    {
+      "title": "Stick Up Kid",
+      "description": "GTA Online: Hold up all 20 Stores.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 11,
+      "icon": "bi-trophy-fill",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/f4ef0e577366789060ce283dbafbd09fd7fe36ac.jpg",
+      "videoId": "Wi7Bw7XUwLg",
+      "videoUrl": "https://www.youtube.com/watch?v=Wi7Bw7XUwLg",
+      "videoTitle": "GTA V: Stick Up Kid - Achievement Guide",
+      "videoChannel": "wiiare.in"
+    },
+    {
+      "title": "Full Refund",
+      "description": "GTA Online: Kill the thief that mugged you.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 10.5,
+      "icon": "bi-stars",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/262a6b43c119506e1a2b715503d444e30d6862f3.jpg",
+      "videoId": "kKt_jf2LSkg",
+      "videoUrl": "https://www.youtube.com/watch?v=kKt_jf2LSkg",
+      "videoTitle": "GTA5 - How To Obtain The Full Refund Trophy Without Friends ",
+      "videoChannel": "Lewis_y123"
+    },
+    {
+      "title": "A New Perspective",
+      "description": "You played GTA V in first person mode for 15 hours.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 10.5,
+      "icon": "bi-controller",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/13997e656988c7cc780b26e1e3165bb437b3d26d.jpg",
+      "videoId": "qnWOkFe64sU",
+      "videoUrl": "https://www.youtube.com/watch?v=qnWOkFe64sU",
+      "videoTitle": "GTA 5 Next Gen - Secret Hidden \u201cA New Perspective\u201d Trophy/Achievement Guide! (GTA 5 PS4 & Xbox One)",
+      "videoChannel": "Typical Gamer"
+    },
+    {
+      "title": "The Midnight Club",
+      "description": "GTA Online: Use custom vehicles to win 5 races.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 10,
+      "icon": "bi-joystick",
+      "color": "#95731d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/cdd9c30274e74616b3b02c16f989bdbcccc7cc86.jpg",
+      "videoId": "8MNivWsBRuE",
+      "videoUrl": "https://www.youtube.com/watch?v=8MNivWsBRuE",
+      "videoTitle": "GTA V - The Midnight Club Achievement/Trophy Guide (Grand Theft Auto Online)",
+      "videoChannel": "SASxSH4DOWZ"
+    },
+    {
+      "title": "The Government Gimps",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 9.7,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/5dcbdbf0b8505ea3a673cd585ef188042b36f854.jpg",
+      "videoId": "cCpH_ha2tZg",
+      "videoUrl": "https://www.youtube.com/watch?v=cCpH_ha2tZg",
+      "videoTitle": "Grand Theft Auto V The Government Gimps Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Four Way",
+      "description": "GTA Online: As Heist Leader set the finale cut as 25% across all players.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 9.5,
+      "icon": "bi-camera-reels-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/bf744e66bd43f0be2df0138d88dba55d41bd0025.jpg",
+      "videoId": "vB1A8FiBbNk",
+      "videoUrl": "https://www.youtube.com/watch?v=vB1A8FiBbNk",
+      "videoTitle": "GTA V: 100% Total Completion Strategy Guide",
+      "videoChannel": "Jimbatron"
+    },
+    {
+      "title": "To Live or Die in Los Santos",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 9.4,
+      "icon": "bi-flag-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
+      "videoId": "2T4Ab_O94Go",
+      "videoUrl": "https://www.youtube.com/watch?v=2T4Ab_O94Go",
+      "videoTitle": "GTA V - How to get TO LIVE OR DIE IN LOS SANTOS Trophy/Achievement guide 2021",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "The Moment of Truth",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 9.2,
+      "icon": "bi-lightning-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/4a82448f49ec53edfe6fa91d8cab3d31f95612ed.jpg",
+      "videoId": "gQi8ICp72X0",
+      "videoUrl": "https://www.youtube.com/watch?v=gQi8ICp72X0",
+      "videoTitle": "GTA V - How to get The Moment Of Truth Trophy / Achievement Guide Guide 2021",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "The Big One!",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 9,
+      "icon": "bi-trophy-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/d7e3cd1c9fb9e9a18cfa045f6d97cb7e2d5bbd1e.jpg",
+      "videoId": "R0vej3Js-Cg",
+      "videoUrl": "https://www.youtube.com/watch?v=R0vej3Js-Cg",
+      "videoTitle": "You Missed How To Get Max Money In The Big Score #gta5 #gtav #gtaonline - DarkViperAU",
+      "videoChannel": "DarkViperAU"
+    },
+    {
+      "title": "Trading Pure Alpha",
+      "description": "Make a profit over your total investments in the stock market.",
+      "category": "Progress",
+      "tags": [
+        "Progress"
+      ],
+      "rarity": 9,
+      "icon": "bi-stars",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/825057660ea997e76e7d3b334eedbb71fd66e67b.jpg",
+      "videoId": "mFA0eejbAfM",
+      "videoUrl": "https://www.youtube.com/watch?v=mFA0eejbAfM",
+      "videoTitle": "Grand Theft Auto V - Trading Pure Alpha Guide | Rooster Teeth",
+      "videoChannel": "Achievement Hunter"
+    },
+    {
+      "title": "Orbital Obliteration",
+      "description": "GTA Online: Kill another player with the Orbital Cannon.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 8.6,
+      "icon": "bi-controller",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/6c94dd71fb8f8a829bd520a97adf3bacf2e072c8.jpg",
+      "videoId": "Mw-yV9OCNKw",
+      "videoUrl": "https://www.youtube.com/watch?v=Mw-yV9OCNKw",
+      "videoTitle": "GTA V Online - How to get ORBITAL OBLITERATION  Trophy / Achievement Guide Guide 2021",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "Mastermind",
+      "description": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 8.2,
+      "icon": "bi-joystick",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/0f3e966b7faa1c60160a9c82b5f9ccc3a269448a.jpg",
+      "videoId": "PXCKKgdi6iw",
+      "videoUrl": "https://www.youtube.com/watch?v=PXCKKgdi6iw",
+      "videoTitle": "GTA Online: Doomsday Heist - Criminal Mastermind Guide (Masterminds Trophy / Achievement)",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Live a Little",
+      "description": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 8.1,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/b43851b77c62cebc7f4b05cdc9429dde9c44c8e7.jpg",
+      "videoId": "UeT22K3r7Qk",
+      "videoUrl": "https://www.youtube.com/watch?v=UeT22K3r7Qk",
+      "videoTitle": "\"LIVE A LITTLE\" Achievement & Trophy in 2024 TIPS Guide #GTAOnline #GTA5 #Shorts",
+      "videoChannel": "Friendly Frenzy Games"
+    },
+    {
+      "title": "Numero Uno",
+      "description": "GTA Online: Obtain first place in all competitive game types.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 7.5,
+      "icon": "bi-camera-reels-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/92c6fe4c5df0d8a2b09e8c67efebf24aaaad7092.jpg",
+      "videoId": "Ag8_SZ_-iaE",
+      "videoUrl": "https://www.youtube.com/watch?v=Ag8_SZ_-iaE",
+      "videoTitle": "GTA V - How to get NUMERO UNO Trophy / Achievement Guide (Easy Way) #numerouno #numerounotrophy",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "Method Actor",
+      "description": "Enter Director Mode using any of your own GTA Online characters.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 7,
+      "icon": "bi-flag-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/0b8048fe061f2d2f85346ecf8ab7355313bc72e1.jpg",
+      "videoId": "Q42JZ0TJQCA",
+      "videoUrl": "https://www.youtube.com/watch?v=Q42JZ0TJQCA",
+      "videoTitle": "How to unlock Method Actor Achievement in GTA5 (EASY)",
+      "videoChannel": "XKG"
+    },
+    {
+      "title": "A Lot of Cheddar",
+      "description": "Spend a total of $200 million across all three characters.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 6.5,
+      "icon": "bi-lightning-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/28876d93d4cd3bb7750c552298f7ed491829188e.jpg",
+      "videoId": "lBWvhnhB_WA",
+      "videoUrl": "https://www.youtube.com/watch?v=lBWvhnhB_WA",
+      "videoTitle": "Grand Theft Auto V (GTA V) - A Lot of Cheddar Trophy / Achievement Guide",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "First Time Director",
+      "description": "Enter Director Mode for the first time as an unlocked actor.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 6.3,
+      "icon": "bi-trophy-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/786d389af54d2ed60c40da399e35694fbb2d03b5.jpg",
+      "videoId": "Q42JZ0TJQCA",
+      "videoUrl": "https://www.youtube.com/watch?v=Q42JZ0TJQCA",
+      "videoTitle": "How to unlock Method Actor Achievement in GTA5 (EASY)",
+      "videoChannel": "XKG"
+    },
+    {
+      "title": "Red Mist",
+      "description": "Complete all Rampages.",
+      "category": "Challenge",
+      "tags": [
+        "Challenge"
+      ],
+      "rarity": 5.9,
+      "icon": "bi-stars",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/90445d47ba8f20348f5524a1250b78e8c69f2b38.jpg",
+      "videoId": "ol2nlLxitz0",
+      "videoUrl": "https://www.youtube.com/watch?v=ol2nlLxitz0",
+      "videoTitle": "Grand Theft Auto 5: Red Mist Trophy/Achievement (GTA 5 Rampages /w Gold Requirements) - HTG",
+      "videoChannel": "HappyThumbsGaming"
+    },
+    {
+      "title": "Altruist Acolyte",
+      "description": "Deliver an unsuspecting victim to the Altruist Cult.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 5.3,
+      "icon": "bi-controller",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/46eb28c4c5065567bb6f57d775551fdbbeda099d.jpg",
+      "videoId": "zxPbeYUCsio",
+      "videoUrl": "https://www.youtube.com/watch?v=zxPbeYUCsio",
+      "videoTitle": "Grand Theft Auto V (GTA V) - Altruist Acolyte Trophy / Achievement Guide",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "Vinewood Visionary",
+      "description": "Create and export a video using the Rockstar Editor or enter Director Mode 5 times.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 5.2,
+      "icon": "bi-joystick",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/f089ee1b161e0d0485ff0cf42e6af9fe9cbc7b66.jpg",
+      "videoId": "eJuMCLPsBOI",
+      "videoUrl": "https://www.youtube.com/watch?v=eJuMCLPsBOI",
+      "videoTitle": "(GTA V) - How To Get Majestic & Vinewood Visionary Trophies Easiest Way.",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "Backseat Driver",
+      "description": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 5,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/dff6293d41074b91c2e6e8dbf937802a4f85deae.jpg",
+      "videoId": "YzlB8OcNq-w",
+      "videoUrl": "https://www.youtube.com/watch?v=YzlB8OcNq-w",
+      "videoTitle": "What Is The Hardest Achievement In GTA 5?",
+      "videoChannel": "Stay"
+    },
+    {
+      "title": "Enjoy Your Stay",
+      "description": "GTA Online: Participate in everything Los Santos has to offer.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 5,
+      "icon": "bi-camera-reels-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/8a7ee651732912536db07b006ff6ba37f30670e7.jpg",
+      "videoId": "37-Ja3ll6Eg",
+      "videoUrl": "https://www.youtube.com/watch?v=37-Ja3ll6Eg",
+      "videoTitle": "GTA 5 Online \u201cEnjoy your stay\u201d trophies ",
+      "videoChannel": "gnoel195"
+    },
+    {
+      "title": "All's Fare in Love and War",
+      "description": "Purchase Downtown Cab Co. and complete a private fare.",
+      "category": "Progress",
+      "tags": [
+        "Progress"
+      ],
+      "rarity": 4.7,
+      "icon": "bi-flag-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2c7e02d888277066667da17fa529cbde1efef640.jpg",
+      "videoId": "09aWtMKnKSE",
+      "videoUrl": "https://www.youtube.com/watch?v=09aWtMKnKSE",
+      "videoTitle": "GTA V - All's Fare in Love and War Achievement/Trophy Guide - Private Fare",
+      "videoChannel": "Maka91Productions"
+    },
+    {
+      "title": "Wanted: Alive or Alive",
+      "description": "Deliver a bail bond target alive.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 4.6,
+      "icon": "bi-lightning-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/6183e7fea5820482a230af9a9dcba656355d0950.jpg",
+      "videoId": "eNG3n34lVL0",
+      "videoUrl": "https://www.youtube.com/watch?v=eNG3n34lVL0",
+      "videoTitle": "Grand Theft Auto V (GTA V) - Wanted: Alive or Alive Trophy / Achievement Guide",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "Multi-Disciplined",
+      "description": "Attain a gold medal in all applicable hobbies and pastimes.",
+      "category": "Challenge",
+      "tags": [
+        "Challenge"
+      ],
+      "rarity": 4.5,
+      "icon": "bi-trophy-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/bb1f988f6f928b5dd32825f08b0c9d32b4aca9ef.jpg",
+      "videoId": "tTbpqN78a2U",
+      "videoUrl": "https://www.youtube.com/watch?v=tTbpqN78a2U",
+      "videoTitle": "Grand Theft Auto V (GTA V) - Multi-Disciplined Trophy / Achievement Guide (All Hobby Gold Medals)",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "Majestic",
+      "description": "Create and export 10 videos using the Rockstar Editor or enter Director Mode 10 times.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 4.2,
+      "icon": "bi-stars",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/ba9d3e93ecfe549fddfb3ba06e5ab8ba12bd9a42.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "San Andreas Sightseer",
+      "description": "Explore all of Los Santos and Blaine County.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 4.1,
+      "icon": "bi-controller",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/5d30f848b95c98f88101e53b1606410df7e3b29f.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Location Scout",
+      "description": "Visit all Locations in Director Mode.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 3.9,
+      "icon": "bi-joystick",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2d98ca2d42b753cd9de78fb8de9ecea17d9420fe.jpg",
+      "videoId": "NiGzeGF3dEg",
+      "videoUrl": "https://www.youtube.com/watch?v=NiGzeGF3dEg",
+      "videoTitle": "Grand Theft Auto V - \"Location Scout\" achievement/trophy guide",
+      "videoChannel": "PhillyCh3zSt3ak"
+    },
+    {
+      "title": "Elitist",
+      "description": "GTA Online: Complete all 3 Elite Challenges in The Doomsday Heist.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 3.7,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/c74e2b7214944b4734e11628a4f12c2936f011d6.jpg",
+      "videoId": "Nx1LIhv29Bo",
+      "videoUrl": "https://www.youtube.com/watch?v=Nx1LIhv29Bo",
+      "videoTitle": "GTA Online: Doomsday Heist - Elite Challenge Guide (Elitist Trophy / Achievement)",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Masterminds",
+      "description": "GTA Online: Complete all 3 Criminal Mastermind challenges in The Doomsday Heist.",
+      "category": "Online",
+      "tags": [
+        "Online"
+      ],
+      "rarity": 3.4,
+      "icon": "bi-camera-reels-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/81f369a70592f32f088c7af1631154ea76762b3e.jpg",
+      "videoId": "PXCKKgdi6iw",
+      "videoUrl": "https://www.youtube.com/watch?v=PXCKKgdi6iw",
+      "videoTitle": "GTA Online: Doomsday Heist - Criminal Mastermind Guide (Masterminds Trophy / Achievement)",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Out of Your Depth",
+      "description": "You're gonna need a bigger boat...",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 3.3,
+      "icon": "bi-flag-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/179e49d940f5ef97f775a4f91f454ef3d4330c49.jpg",
+      "videoId": "1pSyjKjkLww",
+      "videoUrl": "https://www.youtube.com/watch?v=1pSyjKjkLww",
+      "videoTitle": "GTA V - Out of Your Depth Achievement/Trophy Guide",
+      "videoChannel": "Maka91Productions"
+    },
+    {
+      "title": "Kifflom!",
+      "description": "Complete your path to enlightenment... or not.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 3.1,
+      "icon": "bi-lightning-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/389f5a0c31c78c041a6a7fdb549678802ba1bc83.jpg",
+      "videoId": "8Q29lVLHF3w",
+      "videoUrl": "https://www.youtube.com/watch?v=8Q29lVLHF3w",
+      "videoTitle": "GTA V: Kifflom! Achievement Guide",
+      "videoChannel": "Screechy"
+    },
+    {
+      "title": "Close Shave",
+      "description": "Complete all Under the Bridge and Knife Flight challenges.",
+      "category": "Collection",
+      "tags": [
+        "Collection"
+      ],
+      "rarity": 3.1,
+      "icon": "bi-trophy-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/5d2297eb30b1c4b077f93ccdbdd01b681cb4dc7b.jpg",
+      "videoId": "_sSwCoecn0I",
+      "videoUrl": "https://www.youtube.com/watch?v=_sSwCoecn0I",
+      "videoTitle": "Grand Theft Auto V (GTA V) - All Knife Flight Locations (Close Shave Trophy / Achievement Guide)",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "TP Industries Arms Race",
+      "description": "Purchase McKenzie Field Hangar and win the arms race.",
+      "category": "Progress",
+      "tags": [
+        "Progress"
+      ],
+      "rarity": 3,
+      "icon": "bi-stars",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2382c7bd3ceba45aa5c06b0bb1a76162bb045c4f.jpg",
+      "videoId": "Ao3fc_CdK7Y",
+      "videoUrl": "https://www.youtube.com/watch?v=Ao3fc_CdK7Y",
+      "videoTitle": "Grand Theft Auto V - TP Industries Arms Race Guide | Rooster Teeth",
+      "videoChannel": "Achievement Hunter"
+    },
+    {
+      "title": "From Beyond the Stars",
+      "description": "Collect and return all spaceship parts.",
+      "category": "Collection",
+      "tags": [
+        "Collection"
+      ],
+      "rarity": 2.9,
+      "icon": "bi-controller",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/d26a8bb2b5cd36fbf51e4fd22badc01c7812b77c.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Solid Gold, Baby!",
+      "description": "Earn any 70 Gold Medals on Missions, Strangers and Freaks.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 2.8,
+      "icon": "bi-joystick",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/7493961594876611e522233de6ff4c5dfd4f655d.jpg",
+      "videoId": "03xaZCmx0vg",
+      "videoUrl": "https://www.youtube.com/watch?v=03xaZCmx0vg",
+      "videoTitle": "Solid Gold, Baby! Trophy/Achievement Tutorial - Grand Theft Auto V",
+      "videoChannel": "AZHES"
+    },
+    {
+      "title": "A Mystery, Solved",
+      "description": "Solve the mystery of Leonora Johnson.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 2.8,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/0ca947ce37980d4efab407bd36b5ad5d905ef70d.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Waste Management",
+      "description": "Purchase the old dock and collect all nuclear waste.",
+      "category": "Progress",
+      "tags": [
+        "Progress"
+      ],
+      "rarity": 2.8,
+      "icon": "bi-camera-reels-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/ff8fe7ceb5b4ff6986132af8c501dafa695fb77c.jpg",
+      "videoId": "s_acxxr7ZdM",
+      "videoUrl": "https://www.youtube.com/watch?v=s_acxxr7ZdM",
+      "videoTitle": "Grand Theft Auto V (GTA V) - All Nuclear Waste Locations (Waste Management Trophy/Achievement Guide)",
+      "videoChannel": "PowerPyx"
+    },
+    {
+      "title": "Three Man Army",
+      "description": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+      "category": "Challenge",
+      "tags": [
+        "Challenge"
+      ],
+      "rarity": 2.8,
+      "icon": "bi-flag-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/3a35cf6717f925dba016162bd3d0baa41aef76ec.jpg",
+      "videoId": "Zvvr-LCDR_o",
+      "videoUrl": "https://www.youtube.com/watch?v=Zvvr-LCDR_o",
+      "videoTitle": "GTA 5: How To Get The 3 Man Army Achievement",
+      "videoChannel": "IGN"
+    },
+    {
+      "title": "Career Criminal",
+      "description": "Attain 100% Game Completion.",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 2.6,
+      "icon": "bi-lightning-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/06d8ea22220f88e23accc97e2363a28bd526def5.jpg",
+      "videoId": "PzkoWxlFrQM",
+      "videoUrl": "https://www.youtube.com/watch?v=PzkoWxlFrQM",
+      "videoTitle": "Grand Theft Auto V How To Do The Career Criminal Trophy (100%) PS5",
+      "videoChannel": "kovis51"
+    },
+    {
+      "title": "Animal Lover",
+      "description": "Enter Director Mode as an unlocked animal actor for the first time.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 2.6,
+      "icon": "bi-trophy-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/fb94ef0784e338a379c871da099c0c89a92ce8ec.jpg",
+      "videoId": "u0CrKpczaAk",
+      "videoUrl": "https://www.youtube.com/watch?v=u0CrKpczaAk",
+      "videoTitle": "Only 0.95% of Grand Theft Auto V Players Have This UItra Rare Achievement",
+      "videoChannel": "Xbox On"
+    },
+    {
+      "title": "Ensemble Piece",
+      "description": "Unlock all Story Characters and enter Director Mode as an actor from this category.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 2.6,
+      "icon": "bi-stars",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/99e329671a7803fdd48a6616aa152fc5053a6597.jpg",
+      "videoId": "qt2ttFUU_Fw",
+      "videoUrl": "https://www.youtube.com/watch?v=qt2ttFUU_Fw",
+      "videoTitle": "GTA V - How to get ENSEMBLE PIECE Trophy/Achievement. #gta5 #GTAV #GTADIRECTORMODE",
+      "videoChannel": "BOTTENE GAMING"
+    },
+    {
+      "title": "Cult Movie",
+      "description": "Enter Director Mode as Cris Formage.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 2.5,
+      "icon": "bi-controller",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/2c9ffebd7e6c34dfdef49e6f2d250dba8fc3e2f2.jpg",
+      "videoId": "5LVdTOtsbd8",
+      "videoUrl": "https://www.youtube.com/watch?v=5LVdTOtsbd8",
+      "videoTitle": "GTA 5 Cult, movie achievement/trophy guide \ufffc\ufffc",
+      "videoChannel": "The pie fishy"
+    },
+    {
+      "title": "Cryptozoologist",
+      "description": "",
+      "category": "Story",
+      "tags": [
+        "Story"
+      ],
+      "rarity": 2.5,
+      "icon": "bi-joystick",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/7f32e0c977b465951a64b3ac01b29f90bbfb2b64.jpg",
+      "videoId": "gaqBgLHM6Es",
+      "videoUrl": "https://www.youtube.com/watch?v=gaqBgLHM6Es",
+      "videoTitle": "GTA V - Hidden Trophy/Achievement Tutorial \"Cryptozoologist\" (Unlock Animals For Director Mode)",
+      "videoChannel": "Lewis"
+    },
+    {
+      "title": "Humans of Los Santos",
+      "description": "Unlock all Special Characters and enter Director Mode as an actor from this category.",
+      "category": "Director Mode",
+      "tags": [
+        "Director Mode"
+      ],
+      "rarity": 2.4,
+      "icon": "bi-map-fill",
+      "color": "#7a5e12",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/3240220/e719d10446337e05fde7a16d6c9a094add7a9b6d.jpg",
+      "videoId": "NgE6HLmAlU8",
+      "videoUrl": "https://www.youtube.com/watch?v=NgE6HLmAlU8",
+      "videoTitle": "GTA V - How to get HUMANS OF LOS SANTOS Trophy/Achievement.",
+      "videoChannel": "BOTTENE GAMING"
+    }
+  ]
+}

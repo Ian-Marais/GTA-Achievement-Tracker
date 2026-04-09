@@ -1,0 +1,576 @@
+{
+  "achievements": [
+    {
+      "title": "Legal Counsel",
+      "description": "Complete the \"Riot\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 51.1,
+      "icon": "bi-sunrise-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/d83c68fc759857a6fe7b011b163a6989b8898c4e.jpg",
+      "videoId": "58lvYOH9Kqk",
+      "videoUrl": "https://www.youtube.com/watch?v=58lvYOH9Kqk",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Legal Counsel Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Greasy Palms",
+      "description": "Use a police bribe to reduce your wanted level.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 47.7,
+      "icon": "bi-car-front-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/5fc571873b986b628b0e37a1d1d38c24bc345c67.jpg",
+      "videoId": "sXGtFXDndyU",
+      "videoUrl": "https://www.youtube.com/watch?v=sXGtFXDndyU",
+      "videoTitle": "Grand Theft Auto Vice City Definitive Edition - 'Greasy Palms' Achievement/Trophy",
+      "videoChannel": "Achievement/Trophy Hunters"
+    },
+    {
+      "title": "South American Connection",
+      "description": "Complete the \"Supply & Demand\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 34.9,
+      "icon": "bi-cash-stack",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/cce2e86920317241e22f0320e88e15c1c5ea7dfc.jpg",
+      "videoId": "alT_7XbussA",
+      "videoUrl": "https://www.youtube.com/watch?v=alT_7XbussA",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: South American Connection Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Life of the Party",
+      "description": "Complete the \"All Hands on Deck!\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 29.7,
+      "icon": "bi-controller",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/306581f03a298fc8fd143ae6c6177a4e97eb68d3.jpg",
+      "videoId": "GWZiGcHRuhA",
+      "videoUrl": "https://www.youtube.com/watch?v=GWZiGcHRuhA",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Life Of The Party Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Tommy Two-Wheels",
+      "description": "Complete the \"Hog Tied\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 24.9,
+      "icon": "bi-bullseye",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/7a41d07dbd3ce8bc62a0e1b1267bc1b4f5305e55.jpg",
+      "videoId": "lSB16ZefYrA",
+      "videoUrl": "https://www.youtube.com/watch?v=lSB16ZefYrA",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Tommy Two-Wheels Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Chauffeur",
+      "description": "Complete the \"Publicity Tour\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 24.4,
+      "icon": "bi-house-door-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/b07706769488cf51f2f47940a2b64fe895a76ef6.jpg",
+      "videoId": "-qmGctg1j9I",
+      "videoUrl": "https://www.youtube.com/watch?v=-qmGctg1j9I",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Chauffeur Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Big Heat from Little Havana",
+      "description": "Complete the \"Trojan Voodoo\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 24.3,
+      "icon": "bi-trophy-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/3eacd8bef1192ca58672e5863445a99b07aeaf8e.jpg",
+      "videoId": "G3eHuUZZz8w",
+      "videoUrl": "https://www.youtube.com/watch?v=G3eHuUZZz8w",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Big Heat From Little Havana Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Salutations My Little Friend",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 19.2,
+      "icon": "bi-water",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/028225d5964d3bab51928cb0f63c2752260ffff9.jpg",
+      "videoId": "ZxDzC90TbRk",
+      "videoUrl": "https://www.youtube.com/watch?v=ZxDzC90TbRk",
+      "videoTitle": "GTA Vice City - \"Salutations My Little Friend\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Gun for Hire",
+      "description": "Complete all assassination contracts.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 18.2,
+      "icon": "bi-sunrise-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/213c268477f99f13b60e9d94d3729603fcb6a008.jpg",
+      "videoId": "YFnz8hFS59E",
+      "videoUrl": "https://www.youtube.com/watch?v=YFnz8hFS59E",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Gun For Hire Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Mischief Managed",
+      "description": "Complete the \"Keep Your Friends Close...\" mission.",
+      "category": "Story",
+      "tags": [
+        "Story",
+        "Missions"
+      ],
+      "rarity": 18.2,
+      "icon": "bi-car-front-fill",
+      "color": "#5aa7d6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/229fa20cf17187017009039bf8eed32542613ca8.jpg",
+      "videoId": "p9we3TPRiEU",
+      "videoUrl": "https://www.youtube.com/watch?v=p9we3TPRiEU",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Mischief Managed Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Iron-y",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 17.4,
+      "icon": "bi-cash-stack",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/89dc3341f769af9622a2d665b5961de263827651.jpg",
+      "videoId": "H8uk8z1S_BY",
+      "videoUrl": "https://www.youtube.com/watch?v=H8uk8z1S_BY",
+      "videoTitle": "Iron-y Trophy/Achievement Guide | GTA Vice City Definitive Edition",
+      "videoChannel": "Gtamen"
+    },
+    {
+      "title": "Vice City Mogul",
+      "description": "Own 10 properties.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 15.7,
+      "icon": "bi-controller",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/f918e8a55ced2ae32089a7a45cf0a133f896f054.jpg",
+      "videoId": "8e6GjFjNzlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=8e6GjFjNzlQ",
+      "videoTitle": "GTA Vice City - \"Vice City Mogul\" & \"Prime Real Estate\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Catch Me if You Can",
+      "description": "Achieve a six-star wanted level.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 15.3,
+      "icon": "bi-bullseye",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/dd68700cf84a3be1ec9b64efd6362b03d1e2083f.jpg",
+      "videoId": "W3UGkDcnU84",
+      "videoUrl": "https://www.youtube.com/watch?v=W3UGkDcnU84",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Catch Me If You Can Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Bloodstained Hands",
+      "description": "Earn the Butcher criminal rating.",
+      "category": "Progression",
+      "tags": [
+        "Progression",
+        "Open World"
+      ],
+      "rarity": 13.6,
+      "icon": "bi-house-door-fill",
+      "color": "#5d88a6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/3fb3d76b945ee5de8e91f0de9e93e67961465f41.jpg",
+      "videoId": "LbRm1bXEKbM",
+      "videoUrl": "https://www.youtube.com/watch?v=LbRm1bXEKbM",
+      "videoTitle": "Grand Theft Auto Vice City The Definitive Edition: Bloodstained Hands Achievement Guide",
+      "videoChannel": "AchievementWorld"
+    },
+    {
+      "title": "Pie Guy",
+      "description": "Deliver 10 pizzas.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 13.1,
+      "icon": "bi-trophy-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/54ebe3843aff914bd74ff5c9c383ed20772484b8.jpg",
+      "videoId": "QrtsQxzd-uk",
+      "videoUrl": "https://www.youtube.com/watch?v=QrtsQxzd-uk",
+      "videoTitle": "GTA Vice City - Pizza Boy Guide [Pie Guy Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Grand Theft Auto",
+      "description": "Retrieve every wanted vehicle at Sunshine Autos Import Garage.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 13,
+      "icon": "bi-water",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/09fe0388dcd4fe492e34b41be74067028acbc224.jpg",
+      "videoId": "OKVNWg39CAI",
+      "videoUrl": "https://www.youtube.com/watch?v=OKVNWg39CAI",
+      "videoTitle": "GTA Vice City - Hidden Packages [City Sleuth Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Not my First Time",
+      "description": "Complete mission \"G-Spotlight\" without falling from the rooftops.",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 12.6,
+      "icon": "bi-sunrise-fill",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/9dee58f415093d04e58314bcc64b3d2f0c7912da.jpg",
+      "videoId": "W7v6KTZPVcw",
+      "videoUrl": "https://www.youtube.com/watch?v=W7v6KTZPVcw",
+      "videoTitle": "GTA Vice City: Definitive Edition - Not my First Time Trophy/Achievement Guide",
+      "videoChannel": "Sunny's Trophy Guides"
+    },
+    {
+      "title": "Point A to Point B",
+      "description": "Drop off 25 passengers driving the taxi.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 11.8,
+      "icon": "bi-car-front-fill",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/e5186a7806c4febb00f5767806b1491b7b9324eb.jpg",
+      "videoId": "kl7Tj8eg67M",
+      "videoUrl": "https://www.youtube.com/watch?v=kl7Tj8eg67M",
+      "videoTitle": "GTA Vice City - Taxi Driver Guide [Point A to Point B Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "High Quality H2O",
+      "description": "Extinguish 10 fires.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 11.5,
+      "icon": "bi-cash-stack",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/724b78220d873ccac693560970269a43dd8c3c0b.jpg",
+      "videoId": "rKJlGYCbbpc",
+      "videoUrl": "https://www.youtube.com/watch?v=rKJlGYCbbpc",
+      "videoTitle": "GTA Vice City - Firefighter Guide [High Quality H2O Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Don't Need Roads",
+      "description": "",
+      "category": "Open World",
+      "tags": [
+        "Open World"
+      ],
+      "rarity": 11.2,
+      "icon": "bi-controller",
+      "color": "#7f9db5",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/1c33c8dee8dc9e435ac6e514f20358bdf4e7b893.jpg",
+      "videoId": "hxdFRrsOU6I",
+      "videoUrl": "https://www.youtube.com/watch?v=hxdFRrsOU6I",
+      "videoTitle": "GTA Vice City - Don't Need Roads Trophy/Achievement Guide",
+      "videoChannel": "GazzaMontana"
+    },
+    {
+      "title": "Somebody Call the Wambulance?",
+      "description": "Complete Paramedic Mission level 12.",
+      "category": "Side Content",
+      "tags": [
+        "Side Content",
+        "Service Jobs"
+      ],
+      "rarity": 10.6,
+      "icon": "bi-bullseye",
+      "color": "#6aa36d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/5dae47bb60c904cf5565fbb7bba9d6db78a701e0.jpg",
+      "videoId": "XhGdutZjuco",
+      "videoUrl": "https://www.youtube.com/watch?v=XhGdutZjuco",
+      "videoTitle": "GTA Vice City - Paramedic Guide [Somebody Call the Wambulance? Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Bull in a China Shop",
+      "description": "Cause $1,000,000 in property damage.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 10.3,
+      "icon": "bi-house-door-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/9edc3272f608e0da9869e80e98e2c19a1792e9d5.jpg",
+      "videoId": "8slQKAgHsoA",
+      "videoUrl": "https://www.youtube.com/watch?v=8slQKAgHsoA",
+      "videoTitle": "GTA Vice City - \"Bull in a China Shop\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Running Rampant",
+      "description": "Complete Vigilante mission level 12.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 10.2,
+      "icon": "bi-trophy-fill",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/b5873e226f12f7cef0b0a5fbd964610f602a6e01.jpg",
+      "videoId": "oI31fA9NMhc",
+      "videoUrl": "https://www.youtube.com/watch?v=oI31fA9NMhc",
+      "videoTitle": "GTA Vice City - Vigilante Guide [Running Rampant Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Chopper\u2019d Up",
+      "description": "Kill all hostile NPCs during the mission \"Demolition Man\" using the RC chopper\u2019s blades.",
+      "category": "Combat",
+      "tags": [
+        "Combat",
+        "Challenge"
+      ],
+      "rarity": 10.1,
+      "icon": "bi-water",
+      "color": "#c25b4d",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/bacbfc3fa1d4ad8f98c56686ad18efba7b3ab1ed.jpg",
+      "videoId": "T7jDpfVJffI",
+      "videoUrl": "https://www.youtube.com/watch?v=T7jDpfVJffI",
+      "videoTitle": "GTA Vice City - \"Chopper'd Up\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Just Like the Real Thing",
+      "description": "Win the RC Bandit Race.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 9.6,
+      "icon": "bi-sunrise-fill",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/660e5560389f7f1d005f6f5a14fde1fd2d1563e7.jpg",
+      "videoId": "-j488Tin98g",
+      "videoUrl": "https://www.youtube.com/watch?v=-j488Tin98g",
+      "videoTitle": "GTA Vice City - RC Top Fun Guide [Just Like the Real Thing Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "City Sleuth",
+      "description": "Find 100 hidden packages.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 9.1,
+      "icon": "bi-car-front-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/a173d42c7e53307f87f4b4929cfda2906e2eb48e.jpg",
+      "videoId": "OKVNWg39CAI",
+      "videoUrl": "https://www.youtube.com/watch?v=OKVNWg39CAI",
+      "videoTitle": "GTA Vice City - Hidden Packages [City Sleuth Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "One is Better Than Two",
+      "description": "Perform a 30 second wheelie.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 8.6,
+      "icon": "bi-cash-stack",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/c29962ca8c731be87bbfd0de23abcc5f86c9a051.jpg",
+      "videoId": "PBIiFmeK35A",
+      "videoUrl": "https://www.youtube.com/watch?v=PBIiFmeK35A",
+      "videoTitle": "GTA Vice City - \"One is Better Than Two\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Take the Cannoli",
+      "description": "Earn the Godfather criminal rating.",
+      "category": "Progression",
+      "tags": [
+        "Progression",
+        "Open World"
+      ],
+      "rarity": 8.3,
+      "icon": "bi-controller",
+      "color": "#5d88a6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/19487a92c8d37e1e6f0493d9a0e5d41ce389ba76.jpg",
+      "videoId": "jw9DJVqUZe0",
+      "videoUrl": "https://www.youtube.com/watch?v=jw9DJVqUZe0",
+      "videoTitle": "EASIEST & FASTEST WAY! Take The Cannoli Trophy/Achievement Guide | GTA Vice City Definitive Edition",
+      "videoChannel": "Gtamen"
+    },
+    {
+      "title": "Keepie-Uppy Okie Dokie",
+      "description": "Earn a high score of 5 with the Keepie-Uppy Beach Ball.",
+      "category": "Activities",
+      "tags": [
+        "Activities"
+      ],
+      "rarity": 8.1,
+      "icon": "bi-bullseye",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/126bfd824adb57cf660735b3049bd5bd32dfb584.jpg",
+      "videoId": "A-GUrNR3NVU",
+      "videoUrl": "https://www.youtube.com/watch?v=A-GUrNR3NVU",
+      "videoTitle": "GTA Vice City - \"Keepie-Uppy Okie Dokie\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "I'm Famous!",
+      "description": "Earn the Stuff of Legends media attention rank.",
+      "category": "Progression",
+      "tags": [
+        "Progression",
+        "Open World"
+      ],
+      "rarity": 7.6,
+      "icon": "bi-house-door-fill",
+      "color": "#5d88a6",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/187b194de93454de05ce57e5d628c4c162f0bc9f.jpg",
+      "videoId": "dVlRuHgtxxc",
+      "videoUrl": "https://www.youtube.com/watch?v=dVlRuHgtxxc",
+      "videoTitle": "GTA Vice City - \"I'm Famous!\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Born in the 80\u2019s",
+      "description": "",
+      "category": "Activities",
+      "tags": [
+        "Activities"
+      ],
+      "rarity": 7.5,
+      "icon": "bi-trophy-fill",
+      "color": "#c982b8",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/471cdc671f7b8cf45ac0f0bd6d9b8aa5ac723578.jpg",
+      "videoId": "ZRQ_S8-g5-k",
+      "videoUrl": "https://www.youtube.com/watch?v=ZRQ_S8-g5-k",
+      "videoTitle": "GTA Vice City - \"Born in the 80\u2019s\" Trophy Guide",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Daredevil",
+      "description": "Complete 36 unique jumps.",
+      "category": "Vehicles",
+      "tags": [
+        "Vehicles",
+        "Challenge"
+      ],
+      "rarity": 7.1,
+      "icon": "bi-water",
+      "color": "#4f91ba",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/cff01457e2956b1ac7686b2f6e6c9439dd716045.jpg",
+      "videoId": "4Q7Tby3p8Jo",
+      "videoUrl": "https://www.youtube.com/watch?v=4Q7Tby3p8Jo",
+      "videoTitle": "GTA Vice City - Stunt Jumps Guide [Daredevil Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Done it All",
+      "description": "Earn 100% completion.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 6.8,
+      "icon": "bi-sunrise-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/4ed6615697e1d60ea876dfbeeb9f60dc03de2e57.jpg",
+      "videoId": "46hQ6euygGA",
+      "videoUrl": "https://www.youtube.com/watch?v=46hQ6euygGA",
+      "videoTitle": "GTA Vice City - 100% Completion Guide [Done it All Trophy]",
+      "videoChannel": "GTA Series Videos"
+    },
+    {
+      "title": "Kingpin",
+      "description": "Unlock all achievements.",
+      "category": "Completion",
+      "tags": [
+        "Completion",
+        "Collection"
+      ],
+      "rarity": 6,
+      "icon": "bi-car-front-fill",
+      "color": "#83caef",
+      "image": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/1546990/9bbb42c58c6848555583362b4655a91fec37c437.jpg",
+      "videoId": "AN9uKZnzdSs",
+      "videoUrl": "https://www.youtube.com/watch?v=AN9uKZnzdSs",
+      "videoTitle": "Grand Theft Auto: Vice City \u2013 The Definitive Edition Kingpin Trophy",
+      "videoChannel": "N.I. Game Yeah"
+    }
+  ]
+}

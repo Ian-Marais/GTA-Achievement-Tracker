@@ -1,0 +1,211 @@
+There are lots of videos linked to achievements that doesn't match the individual achievements. Look at the list of games below with their individual achievements listed underneath them, the URL links I provided need to replace the URL links that currently exist for that specific achievement. Do not replace links if I state that it shouldn't be replaced "don't replace URL".
+
+Note the "Tips:" heading in this command, I will list extra tips here under each achievement that I want to add extra tips for, take those tips and add them to existing tips.
+
+Underneath "HOW TO UNLOCK IT" delete "Focus on the exact requirement shown by the achievement: " from all achievements from all GTA games. Also look at what I list under "HOW TO UNLOCK IT" at each individual achievement and replace what I noted there with the details I've added there.
+
+Note in which mode the achievement is possible to get.
+
+---
+
+Grand Theft Auto V Enhanced:
+
+---
+
+Off the Plane:
+https://www.youtube.com/watch?v=Rq6BJAJRlhE
+
+"HOW TO UNLOCK IT"
+Replace all 3 steps with the following information: "Finishing the prologue, which consists of finishing the first mission in North Yankton in the robbery with Michael, Trevor, and Brad, then doing the race with Franklin and Lamar to Simion's car dealership (this will also unlock the Welcome to Los Santos achievement) before GTA V Online becomes available. Go online, create an online character, and load into online. After the first online cutscene, you should receive this achievement. Remain online until the achievement is awarded."
+
+Remove the 1 tip under "HELPFUL TIPS"
+
+---
+
+American Dream:
+https://www.youtube.com/watch?v=D1qhyUFDn6w
+
+"HOW TO UNLOCK IT"
+Requirement:
+Own:
+
+An apartment
+A garage (Lots of properties comes ith garages and is not required to be purchased seperately)
+An insured vehicle
+
+Limitations:
+You cannot buy property before Rank 5
+Do:
+Jobs
+Missions
+Races
+
+Cannot be done in Story mode.
+
+Lose/destroy uninsured car.
+Or don’t insure it
+Achievement won’t unlock
+
+Tips:
+1: Use beginner bonuses
+Early missions may:
+Give you a free insured car
+Or enough money to get started
+
+2: Choose a cheap apartment
+Cheapest apartments are enough
+You don’t need anything fancy
+
+3: New character shortcut (modern versions)
+Some players report:
+Starting certain career paths gives a free apartment + garage
+This can unlock the achievement almost instantly
+
+4: Save money efficiently
+Do:
+Contact missions
+Heists (if available)
+Avoid wasting money on cosmetics early
+
+Mode:
+Online
+
+---
+
+Three-Bit Gangster:
+https://www.youtube.com/watch?v=Diq8ceJkzoM
+
+"HOW TO UNLOCK IT"
+Requirement: Reach Rank 25
+
+Limitations:
+Can only be achieved in Online mode
+Tips:
+1: You rank up by gaining RP, which comes from:
+Contact missions
+Heists
+Races
+Deathmatches
+Daily objectives
+Free Mode activities
+
+Tips:
+2: Grind Contact Missions
+Missions from characters like Lamar Davis and Gerald give solid RP
+Easy and repeatable
+
+2: Do Daily Objectives
+Completing all 3 daily objectives gives:
+Bonus RP
+Bonus cash
+
+3: Play with others (RP bonuses)
+More players = more RP in many modes
+Heists especially give good rewards
+
+4: Take advantage of events
+Rockstar often runs:
+2x or 3x RP events
+These dramatically speed up leveling
+
+5: Avoid inefficient grinding
+Don’t rely on:
+Random freemode chaos
+Low-reward activities
+
+Mode:
+Online
+
+---
+
+Welcome to Los Santos:
+don't replace URL
+
+"HOW TO UNLOCK IT"
+You unlock this achievement by completing the mission “Franklin and Lamar.”
+This is the first proper mission after the Prologue in GTA V.
+The achievement triggers automatically during the ending cutscene after finishing the mission.
+
+Limitations:
+Can only be achived in Story mode.
+
+Tips:
+If it doesn’t unlock:
+Replay the mission from the menu
+This fixes most cases where the achievement glitches
+
+Mode:
+Story
+
+---
+
+Be Prepared:
+https://www.youtube.com/watch?v=Fq4lQl83atY
+
+"HOW TO UNLOCK IT"
+Complete one Heist Setup mission (a mission that is done to prepare for a final heist mission with pay out, Setup missions do not have payouts)
+
+Limitations:
+1: Requires rank 12
+2: Requires high-end apartment with heist planning rooms for hosting which becomes availabe after Lester contacts you, map icon is a green H icon.
+3: GTA Online only (not Story Mode)
+
+Tips:
+1: Co-op achievement (usually very early unlock).
+2: 1. Do “The Fleeca Job” first it’s the easiest and shortest heist it only requires 2 players.
+3: 2. You don’t need to host you can join another player’s setup.
+
+Mode:
+Online
+
+---
+
+Pimp My Sidearm:
+don't replace URL
+
+"HOW TO UNLOCK IT"
+1: Go to Ammu-Nation
+2: Pick any weapon
+3: Buy every available attachment/mod for it
+
+Limitations:
+You must unlock attachments first
+Some mods are locked behind:
+Story progress (Story Mode)
+Rank level (Online)
+Must buy ALL categories, missing even one category (e.g. tint or suppressor) = no unlock
+
+Tips:
+1. Use a cheap weapon
+A basic pistol or sawed-off shotgun is cheapest to fully mod.
+Some weapons only have 1–2 upgrades → easier unlock.
+
+2. Free weapon trick (easy mode)
+If you have Rockstar Social Club rewards, you can get a free Assault SMG
+All mods can also be free.
+
+Mode:
+Story & Online
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
